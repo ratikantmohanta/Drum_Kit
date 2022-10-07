@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ratikantmohanta/Drum_Kit ](https://github.com/ratikantmohanta/Drum_Kit )
-- Live Site URL: [https://ratikantmohanta.github.io/Drum_Kit /](https://ratikantmohanta.github.io/Dice_Challenge/)
+- Live Site URL: [https://ratikantmohanta.github.io/Drum_Kit /](https://ratikantmohanta.github.io/Drum_Kit/)
 
 ## My process
 
